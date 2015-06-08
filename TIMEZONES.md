@@ -17,7 +17,7 @@ Colaborators by [time zone][x-timeZoneList]
 - [rcotrina94][u-rcotrina94], Chimbote Peru UTC−5:00 (PET)
 - [italoacasas][u-italoacasas], Miami Estados Unidos UTC−5:00 (EST)
 - [pandres95][u-pandres95], Bogotá, Colombia UTC-5:00 (COT)
-- 
+
 <!--
   u- is for user
   x- is for just a link
